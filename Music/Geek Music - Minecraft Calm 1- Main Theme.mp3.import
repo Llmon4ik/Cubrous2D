@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/Geek Music - Minecraft Calm 1- Main Theme.mp3-5bfac27c54ec3d54da354e90b4636d53.mp3str"
+
+[deps]
+
+source_file="res://Music/Geek Music - Minecraft Calm 1- Main Theme.mp3"
+dest_files=[ "res://.import/Geek Music - Minecraft Calm 1- Main Theme.mp3-5bfac27c54ec3d54da354e90b4636d53.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0
